@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/data">
+        <file alias="codec.ico">data/codec.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file alias="play.svg">data/logos/play.svg</file>
+        <file alias="pause.svg">data/logos/pause.svg</file>
+        <file alias="file_open.svg">data/logos/file_open.svg</file>
+        <file alias="save.svg">data/logos/save.svg</file>
+        <file alias="volume_mute.svg">data/logos/volume_mute.svg</file>
+        <file alias="volume_up.svg">data/logos/volume_up.svg</file>
+    </qresource>
+    <qresource prefix="/faces">
+        <file alias="CAMPBELL.png">data/faces/CAMPBELL.png</file>
+        <file alias="JIMHOUSEMA.png">data/faces/JIMHOUSEMA.png</file>
+        <file alias="LIQUID.png">data/faces/LIQUID.png</file>
+        <file alias="MERYL.png">data/faces/MERYL.png</file>
+        <file alias="MEYLING.png">data/faces/MEYLING.png</file>
+        <file alias="MILLER.png">data/faces/MILLER.png</file>
+        <file alias="NAOMI.png">data/faces/NAOMI.png</file>
+        <file alias="NASTASHA.png">data/faces/NASTASHA.png</file>
+        <file alias="OTACON.png">data/faces/OTACON.png</file>
+        <file alias="SNAKE.png">data/faces/SNAKE.png</file>
+        <file alias="WOLF.png">data/faces/WOLF.png</file>
+        <file alias="NINJA.png">data/faces/NINJA.png</file>
+        <file alias="NOISY.png">data/faces/NOISY.png</file>
+    </qresource>
+</RCC>
